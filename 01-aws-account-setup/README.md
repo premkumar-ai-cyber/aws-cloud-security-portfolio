@@ -70,3 +70,32 @@ Successfully created and secured an AWS account following AWS best practices. Th
 ## Screenshots
 
 Screenshots for this project are available in the **images/** folder.
+
+---
+
+## 📄 Project Documentation
+
+Detailed project documentation is available on NextWork:
+
+🔗 https://learn.nextwork.org/confident_maroon_kind_tapir/docs/aws-account-setup
+
+---
+
+## Skills Demonstrated
+
+- AWS Account Creation
+- AWS Identity and Access Management (IAM)
+- Multi-Factor Authentication (MFA)
+- AWS Billing & Free Tier
+- Root User Security
+- IAM Administrator User
+- Cloud Security Best Practices
+
+---
+
+## Technologies Used
+
+- Amazon Web Services (AWS)
+- AWS Management Console
+- AWS IAM
+- AWS Billing
